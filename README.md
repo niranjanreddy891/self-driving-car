@@ -31,5 +31,5 @@ For visualizing training dataset, using Tensorboard use `tensorboard --logdir=./
 
 
 Article for reference:
-<b>A TensorFlow/Keras implementation of this [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf) with many changes.</b>
+<b>A TensorFlow/Keras implementation of this [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf) was taken as reference</b>
 
