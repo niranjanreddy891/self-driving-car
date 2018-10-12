@@ -15,7 +15,7 @@
 
 ### How to Use
 Download Dataset: [link](https://drive.google.com/open?id=1b9-DUUPcdvA94kPC69c0MSnaPCaJ2R55)
-Size: 25 minutes = 25{min} x 60{1 min = 60 sec} x 30{fps} = 45,000 images (45,569 images) ~ 2.3 GB
+Size: 45,596 images  ~ 2.4GB
 
 Few more samples can be downloaded from [here](http://data.apollo.auto/?locale=en-us&lang=en)
 
