@@ -15,7 +15,7 @@
 
 ### How to Use
 Download Dataset: [https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view]
-Size: 25 minutes = 25{min} x 60{1 min = 60 sec} x 30{fps} = 45,569 images ~ 2.3 GB
+Size: 25 minutes = 25{min} x 60{1 min = 60 sec} x 30{fps} = 45,000 images (45,569 images) ~ 2.3 GB
 
 Even you can run without training using the pretrained model by running below commands
 
