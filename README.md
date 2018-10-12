@@ -1,5 +1,4 @@
 # Self Driving Car (End to End CNN/Dave-2)
-Refer the [Self Driving Car Notebook](./Self_Driving_Car_Notebook.ipynb) for complete Information <br>
 
 * Used convolutional neural networks (CNNs) to map the raw pixels from a front-facing camera to the steering commands for a self-driving car. This powerful end-to-end approach means that with minimum training data from humans, the system learns to steer, with or without lane markings, on both local roads and highways. The system can also operate in areas with unclear visual guidance such as parking lots or unpaved roads.
 * The system is trained to automatically learn the internal representations of necessary processing steps, such as detecting useful road features, with only the human steering angle as the training signal. We do not need to explicitly trained it to detect, for example, the outline of roads.
