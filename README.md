@@ -14,7 +14,7 @@
 ![alt img](./self_driving_car_gif.gif)<br>
 
 ### How to Use
-Download Dataset: [https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view]
+Download Dataset: [link](https://drive.google.com/open?id=1b9-DUUPcdvA94kPC69c0MSnaPCaJ2R55)
 Size: 25 minutes = 25{min} x 60{1 min = 60 sec} x 30{fps} = 45,000 images (45,569 images) ~ 2.3 GB
 
 Few more samples can be downloaded from [here](http://data.apollo.auto/?locale=en-us&lang=en)
