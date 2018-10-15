@@ -21,11 +21,11 @@ Few more samples can be downloaded from [here](http://data.apollo.auto/?locale=e
 
 Even you can run without training using the pretrained model by running below commands
 
-Use `python3 train.py`   --- To train the model
+Use `python train.py`   --- To train the model
 
-Use `python3 run.py`     --- To run the model
+Use `python run.py`     --- To run the model
 
-Use `python3 run_dataset.py`   --- To run the model on the dataset
+Use `python run_dataset.py`   --- To run the model on the dataset
 
 For visualizing training dataset, using Tensorboard use `tensorboard --logdir=./logs`, then open http://0.0.0.0:6006/ into your web browser.
 
