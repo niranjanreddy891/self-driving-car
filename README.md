@@ -15,7 +15,7 @@
 
 ### How to Use
 Download Dataset: [link](https://drive.google.com/open?id=1gsr_zdj12F_qPlt-S2tYuz3Fh8Rjt7n2)
-Size: 45,596 images  ~ 2.4GB
+Size: 45,596 images  ~ 2.3GB
 
 Few more samples can be downloaded from [here](http://data.apollo.auto/?locale=en-us&lang=en)
 
