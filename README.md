@@ -30,6 +30,6 @@ Use `python run_dataset.py`   --- To run the model on the dataset
 For visualizing training dataset, using Tensorboard use `tensorboard --logdir=./logs`, then open http://0.0.0.0:6006/ into your web browser.
 
 
-Article for reference:
+Reference article:
 <b>A TensorFlow/Keras implementation of this [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf) was taken as reference</b>
 
